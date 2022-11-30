@@ -1,6 +1,5 @@
 # ChatApp
-Backend code for a client-server chat app designed using the client-server architecture
-
+Multi-threaded chat application hosted using AWS EC2 in Java/JavaFX capable of concurrently handling 50+ concurrent users, utilizing TCP sockets to communicate between clients and the server.
 
 <hr/>
 
